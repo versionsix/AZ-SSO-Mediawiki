@@ -85,7 +85,7 @@
           "name": "ComposerExtension",
           "type": "siteextensions",
           "dependsOn": [
-            "[variables('appName')]"
+            "[variables('siteName')]"
           ]
         }
       ]
